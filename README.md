@@ -1,6 +1,6 @@
 ### 👋Hey! I'm @CharlyAnne ||Charlian Imoisili 
  
-- 👀 I’m interested in JavaScript Programming, Python Programming & Software Development.
+- 👀 I’m interested in Software Development and DevOps.
 - 🌱 I’m currently learning Software Engineering at alx
 - 🔭 Currently working on projects to gain more knowledge on JavaScript||React JS
 - 💬 Let's talk about everything Web development, for now.
