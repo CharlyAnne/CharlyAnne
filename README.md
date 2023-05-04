@@ -21,10 +21,10 @@
 </div>
 <hr color="#fff" align="center" />
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=CharlyAnne&show_icons=true&theme=default&layout=compact" />
+  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=CharlyAnne&show_icons=true&theme=dark&layout=compact" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharlyAnne&langs_count=8&theme=defualt&layout=compact" />
+  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharlyAnne&langs_count=8&theme=dracula&layout=compact" />
 </a>
   <div align="center"><h3><b>Social Handles:</b></h3></div>
   <div align="center" id="badges">
