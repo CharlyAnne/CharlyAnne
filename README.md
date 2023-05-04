@@ -24,10 +24,10 @@
   <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=CharlyAnne&theme=transparent&layout=compact&hide_border=false&hide=stars&text_bold=false&include_all_commits=true&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharlyAnne&langs_count=6&ring_color=fb607f&theme=transparent&layout=compact&text_bold=true" />
+  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharlyAnne&langs_count=6&ring_color=fb607f&theme=dracula&layout=compact&text_bold=true" />
 </a>
 <a href="https://github-readme-streak-stats.herokuapp.com">
-  <img height="180px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=charlyAnne&theme=transparent&border_color=#fb607f&icon_color=#fb607f" />
+  <img height="180px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=charlyAnne&theme=dracula&border_color=#fb607f&icon_color=#fb607f" />
 </a>
  <div align="center"><h3><b>Social Handles:</b></h3></div>
   <div align="center" id="badges">
