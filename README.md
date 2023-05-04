@@ -1,5 +1,5 @@
 ### 👋Hey! I'm Charly
-![](https://komarev.com/ghpvc/?username=CharlyAnne&color=cf1b6f&style=plastic)
+![](https://komarev.com/ghpvc/?username=CharlyAnne&color=#FF69B4&style=plastic)
 - 🌱 I’m currently learning Software Engineering at alx
 - 💬 I’m looking forward to being a professional Frontend engineer.
 <!-- 
@@ -20,7 +20,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="50"/>
 </div>
 <hr color="#fff" align="center" />
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=CharlyAnne&show_icons=true&theme=default&layout=compact" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharlyAnne&langs_count=8&theme=defualt&layout=compact" />
+</a>
   <div align="center"><h3><b>Social Handles:</b></h3></div>
   <div align="center" id="badges">
     <a href="https://www.linkedin.com/in/charlian-imoisili" target="_blank">
