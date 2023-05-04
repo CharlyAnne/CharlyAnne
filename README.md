@@ -1,5 +1,4 @@
 ### 👋Hey! I'm Charly
-![](https://komarev.com/ghpvc/?username=CharlyAnne&color=Fb607f&style=plastic)
 - 🌱 I’m currently learning Software Engineering at alx
 - 💬 Front-end Specialisation.
 <!-- 
@@ -19,7 +18,6 @@
   <!--<img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="nginx" alt="nginx" width="40" height="50"/>&nbsp;-->
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="50"/>
 </div>
-<hr color="#fff" align="center" />
 ### GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=CharlyAnne&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=charlyAnne&theme=transparent&hide_border=false)<br/>
@@ -38,3 +36,5 @@
     </a>
   </div>
   📫 Mail me: cimoisili@outlook.com  ||  🥹 Pronouns: She/Money/Her  ||  🦭 Fun fact: I love playing puzzles, chewing gums and mystery content!
+  ---
+  ![](https://komarev.com/ghpvc/?username=CharlyAnne&color=Fb607f&style=plastic)
