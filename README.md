@@ -23,6 +23,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=CharlyAnne&show_icons=true&theme=transparent&layout=compact&hide=stars&text_bold=false" />
 </a>
+![](https://github-readme-streak-stats.herokuapp.com/?user=CharlyAnne&theme=transparent&hide_border=false)<br/>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharlyAnne&langs_count=8&theme=transparent&layout=compact&text_bold=true" />
 </a>
