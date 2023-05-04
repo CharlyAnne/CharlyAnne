@@ -21,28 +21,28 @@
 <hr/>
  <h3>GitHub Stats:</h3>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=CharlyAnne&theme=dracula&bg_color=101016&layout=compact&hide_border=false&hide=stars&text_bold=false&include_all_commits=true&count_private=true" />
+  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=CharlyAnne&theme=dracula&bg_color=0d1117&layout=compact&hide_border=false&hide=stars&text_bold=false&include_all_commits=true&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharlyAnne&langs_count=6&ring_color=fb607f&theme=dracula&bg_color=101016&layout=compact&text_bold=true" />
+  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharlyAnne&langs_count=6&ring_color=fb607f&theme=dracula&bg_color=0d1117&layout=compact&text_bold=true" />
 </a>
 <a href="https://github-readme-streak-stats.herokuapp.com">
-  <img height="180px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CharlyAnne&theme=dracula&bg_color=101016" />
+  <img height="180px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CharlyAnne&theme=dracular&bg_color=0d1117&ring_color=fb607f" />
 </a>
  <div align="center"><h3><b>Social Handles:</b></h3></div>
   <div align="center" id="badges">
     <a href="https://www.linkedin.com/in/charlian-imoisili" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=pink" alt="LinkedIn Badge"/>
     </a>
   <a href="https://charlydotdev.medium.com" target="_blank">
-      <img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
+      <img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=pink" />
     </a>
     <a href="https://twitter.com/Imoisiliii" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=pink" alt="Twitter Badge"/>
     </a>
   </div>
   📫 Mail me: cimoisili@outlook.com  ||  🥹 Pronouns: She/Money/Her  ||  🦭 Fun fact: I love playing puzzles, chewing gums and mystery content!
   <br>
   <a href="https://komarev.com">
-  <img height="20" width="100" font-size="12" title="ProfileViews" src="https://komarev.com/ghpvc/?username=CharlyAnne&color=Fb607f&style=plastic">
+  <img height="20" width="100" font-size="13" title="ProfileViews" src="https://komarev.com/ghpvc/?username=CharlyAnne&color=Fb607f&style=plastic">
   </a>
