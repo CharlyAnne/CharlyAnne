@@ -1,7 +1,7 @@
 ### 👋Hey! I'm Charly
 ![](https://komarev.com/ghpvc/?username=CharlyAnne&color=Fb607f&style=plastic)
 - 🌱 I’m currently learning Software Engineering at alx
-- 💬 I’m looking forward to being a professional Frontend engineer.
+- 💬 Front-end Specialisation.
 <!-- 
 ### :hammer_and_wrench: Languages and Tools: -->
 <hr />
@@ -21,10 +21,10 @@
 </div>
 <hr color="#fff" align="center" />
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=CharlyAnne&show_icons=true&theme=transparent&layout=compact&include_all_commits=false&hide=stars&text_bold=false" />
+  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=CharlyAnne&show_icons=true&theme=transparent&layout=compact&hide=stars&text_bold=false" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharlyAnne&langs_count=8&theme=transparent&layout=compact" />
+  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharlyAnne&langs_count=8&theme=transparent&layout=compact&text_bold=true" />
 </a>
   <div align="center"><h3><b>Social Handles:</b></h3></div>
   <div align="center" id="badges">
