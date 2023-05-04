@@ -24,7 +24,7 @@
   <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=CharlyAnne&theme=transparent&layout=compact&hide_border=false&hide=stars&text_bold=false&include_all_commits=true&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharlyAnne&langs_count=8&theme=transparent&layout=compact&text_bold=true" />
+  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharlyAnne&langs_count=6&theme=transparent&layout=compact&text_bold=true" />
 </a>
 <a href="https://github-readme-streak-stats.herokuapp.com">
   <img height="180px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=charlyAnne&theme=transparent&hide_border=false" />
@@ -44,5 +44,5 @@
   📫 Mail me: cimoisili@outlook.com  ||  🥹 Pronouns: She/Money/Her  ||  🦭 Fun fact: I love playing puzzles, chewing gums and mystery content!
   <br>
   <a href="https://komarev.com">
-  <img height="35" width="80" title="ProfileViews" src="https://komarev.com/ghpvc/?username=CharlyAnne&color=Fb607f&style=plastic">
+  <img height="20" width="100" font-size="12" title="ProfileViews" src="https://komarev.com/ghpvc/?username=CharlyAnne&color=Fb607f&style=plastic">
   </a>
