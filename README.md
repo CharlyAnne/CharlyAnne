@@ -27,7 +27,7 @@
   <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharlyAnne&langs_count=6&ring_color=fb607f&theme=dracula&bg_color=0d1117&layout=compact&text_bold=true" />
 </a>
 <a href="https://github-readme-streak-stats.herokuapp.com">
-  <img height="180px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CharlyAnne&theme=dracula&bg_color=0d1117&ring_color=fb607f" />
+  <img height="180px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CharlyAnne&theme=dracula&background=0d1117&ring_color=fb607f" />
 </a>
  <div align="center"><h3><b>Social Handles:</b></h3></div>
   <div align="center" id="badges">
