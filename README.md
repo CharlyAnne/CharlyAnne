@@ -1,5 +1,5 @@
 ### 👋Hey! I'm Charly
-![](https://komarev.com/ghpvc/?username=CharlyAnne&color=#FF69B4&style=plastic)
+![](https://komarev.com/ghpvc/?username=CharlyAnne&color=Fb607f&style=plastic)
 - 🌱 I’m currently learning Software Engineering at alx
 - 💬 I’m looking forward to being a professional Frontend engineer.
 <!-- 
