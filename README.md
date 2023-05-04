@@ -43,4 +43,6 @@
   </div>
   📫 Mail me: cimoisili@outlook.com  ||  🥹 Pronouns: She/Money/Her  ||  🦭 Fun fact: I love playing puzzles, chewing gums and mystery content!
   <br>
-  ![](https://komarev.com/ghpvc/?username=CharlyAnne&color=Fb607f&style=plastic)
+  <a href="https://komarev.com">
+  <img height="35" width="80" title="ProfileViews" src="https://komarev.com/ghpvc/?username=CharlyAnne&color=Fb607f&style=plastic">
+  </a>
