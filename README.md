@@ -19,19 +19,22 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="50"/>
 </div>
 <hr/>
-  ### GitHub Stats:
+ <h3>GitHub Stats:</h3>
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=CharlyAnne&theme=transparent&layout=compact&hide_border=false&hide=stars&text_bold=false&include_all_commits=true&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharlyAnne&langs_count=8&theme=transparent&layout=compact&text_bold=true" />
 </a>
+<a href="https://github-readme-streak-stats.herokuapp.com">
+  <img height="180px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=charlyAnne&theme=transparent&hide_border=false" />
+</a>
  <div align="center"><h3><b>Social Handles:</b></h3></div>
   <div align="center" id="badges">
     <a href="https://www.linkedin.com/in/charlian-imoisili" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-  <a href="https://betascribbles.medium.com" target="_blank">
+  <a href="https://charlydotdev.medium.com" target="_blank">
       <img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
     </a>
     <a href="https://twitter.com/Imoisiliii" target="_blank">
