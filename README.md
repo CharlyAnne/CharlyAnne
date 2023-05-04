@@ -1,13 +1,12 @@
 ### 👋Hey! I'm Charly
 ![](https://komarev.com/ghpvc/?username=CharlyAnne&color=ef1b6f&style=plastic)
- 
 - 🌱 I’m currently learning Software Engineering at alx
 - 💬 I’m looking forward to being a professional Frontend engineer.
 <!-- 
 ### :hammer_and_wrench: Languages and Tools: -->
 <hr/>
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <!--<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;-->
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -31,6 +30,4 @@
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
-  📫 Mail me: cimoisili@outlook.com
-  🥹 Pronouns: She/Money/Her
-  🦭 Fun fact: I love playing puzzles, chewing gums and mystery content!
+  📫 Mail me: cimoisili@outlook.com  ||  🥹 Pronouns: She/Money/Her  ||  🦭 Fun fact: I love playing puzzles, chewing gums and mystery content!
