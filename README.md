@@ -41,7 +41,7 @@
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=pink" alt="Twitter Badge"/>
     </a>
   </div>
-  📫 Mail me: cimoisili@outlook.com  ||  🥹 Pronouns: She/Money/Her  ||  🦭 Fun fact: I love playing puzzles, chewing gums and mystery content!
+  📫 Mail me: cimoisili@outlook.com  ||  🥹 Pronouns: She/Money/Her  ||  🦭 Fun fact: I love playing puzzles and mystery content!
   <br>
   <a href="https://komarev.com" color="black" >
   <img height="22" width="100" font-size="14" font-weight="small" title="Profile Views" src="https://komarev.com/ghpvc/?username=CharlyAnne&color=Fb607f&style=plastic">
