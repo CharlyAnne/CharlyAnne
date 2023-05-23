@@ -20,15 +20,15 @@
 </div>
 <hr/>
  <h3>GitHub Stats:</h3>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <!--<a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=CharlyAnne&theme=dracula&bg_color=0d1117&layout=compact&hide_border=false&hide=stars&text_bold=false&include_all_commits=true&count_private=true" />
-</a>
+</a>-->
 <a href="https://github-readme-streak-stats.herokuapp.com">
   <img height="180px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CharlyAnne&theme=dracula&background=0d1117&ring_color=fb607f" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat" align="center">
+<!--<a href="https://github.com/anuraghazra/convoychat" align="center">
   <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharlyAnne&langs_count=6&ring_color=fb607f&theme=dracula&bg_color=0d1117&layout=compact&text_bold=true" />
-</a>
+</a>-->
  <div align="center"><h3><b>Social Handles:</b></h3></div>
   <div align="center" id="badges">
     <a href="https://www.linkedin.com/in/charlian-imoisili" target="_blank">
