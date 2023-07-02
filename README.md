@@ -1,8 +1,9 @@
-### 👋Hey! I'm Charly
+# Hey! <img src="assets/wave.gif" width="35"> I'm Charly
 - 🌱 I’m currently learning Software Engineering at alx
-- 💬 Front-end Specialisation.
-<!--[![wakatime](https://wakatime.com/badge/user/CharlyAnn.svg)](https://wakatime.com/@CharlyAnn)-->
-
+- 💬 Looking for remote Software development and Frontend engineering opportunities.
+- 📫 How to reach me: <!--[<img src="https://img.shields.io/badge/Portfolio-20d6fe.svg?&style=plastic&logoColor=pink"/](https://github.com/CharlyAnne)-->
+  [<img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=plastic&logo=twitter&logoColor=pink"/>](https://twitter.com/Imoisiliii)
+  [<img src="https://img.shields.io/badge/Linkedin-0A66C2.svg?&style=plastic&logo=linkedin&logoColor=pink"/>](https://www.linkedin.com/in/charlian-imoisili)
 <hr />
 <div align="center">
   <h3>Technologies</h3>
@@ -14,7 +15,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" title="django" alt="django" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/raw/master/icons/django/django-original.svg" title="django" alt="django" width="40" height="40" />
+  <img src="https://img.shields.io/badge/django-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white" alt="django badge">
   <!--<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="40" height="40"/>&nbsp;-->
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <!--<img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="vim" alt="vim" width="40" height="40"/>&nbsp;-->
@@ -34,20 +36,20 @@
   <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharlyAnne&langs_count=6&ring_color=fb607f&theme=dracula&bg_color=0d1117&layout=compact&text_bold=true" />
 </a>
 <!---== Socials==-->
- <div align="center"><h3><b>Social Handles:</b></h3></div>
+<div align="center"><h3><b>Social Handles:</b></h3></div>
   <div align="center" id="badges">
     <a href="https://www.linkedin.com/in/charlian-imoisili" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=pink" alt="LinkedIn Badge"/>
     </a>
-  <a href="https://charlydotdev.medium.com" target="_blank">
+    <a href="https://charlydotdev.medium.com" target="_blank">
       <img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=pink" />
     </a>
     <a href="https://twitter.com/Imoisiliii" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=pink" alt="Twitter Badge"/>
     </a>
-  </div>
-  📫 Mail me: cimoisili@outlook.com  ||  🥹 Pronouns: She/Dollaz/Her  ||  🦭 Fun fact: I love playing puzzles and mystery content!
-  <br>
+</div>
+Email me: cimoisili@outlook.com  ||  🥹 Pronouns: She/Dollaz/Her  ||  🦭 Fun fact: I love board games and mystery content!
+<br>
 <a href="https://komarev.com" color="black" >
   <img height="22" width="100" font-size="14" font-weight="small" title="Profile Views" src="https://komarev.com/ghpvc/?username=CharlyAnne&color=Fb607f&style=plastic">
 </a>
