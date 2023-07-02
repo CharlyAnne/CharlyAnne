@@ -1,22 +1,21 @@
-# Hey! <img src="assets/wave.gif" width="35"> I'm Charly
+# Hey! <img src="wave.gif" width="35"> My name is Charly..
 - 🌱 I’m currently learning Software Engineering at alx
-- 💬 Looking for remote Software development and Frontend engineering opportunities.
+- 💬 Looking for remote Software and Design opportunities.
 - 📫 How to reach me: <!--[<img src="https://img.shields.io/badge/Portfolio-20d6fe.svg?&style=plastic&logoColor=pink"/](https://github.com/CharlyAnne)-->
   [<img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=plastic&logo=twitter&logoColor=pink"/>](https://twitter.com/Imoisiliii)
   [<img src="https://img.shields.io/badge/Linkedin-0A66C2.svg?&style=plastic&logo=linkedin&logoColor=pink"/>](https://www.linkedin.com/in/charlian-imoisili)
 <hr />
 <div align="center">
-  <h3>Technologies</h3>
+  <h3>Technologies & Tools:</h3>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" alt="react" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" title="Jest" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" title="Redux" alt="redux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/raw/master/icons/django/django-original.svg" title="django" alt="django" width="40" height="40" />
-  <img src="https://img.shields.io/badge/django-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white" alt="django badge">
+  <img src="https://img.shields.io/badge/django-%3FF69B4.svg?&style=plastic&logoColor=pink" alt="django" title="Django">
   <!--<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="40" height="40"/>&nbsp;-->
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <!--<img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="vim" alt="vim" width="40" height="40"/>&nbsp;-->
