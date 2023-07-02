@@ -50,7 +50,7 @@
 Email me: cimoisili@outlook.com  ||  🥹 Pronouns: She/Dollaz/Her  ||  🦭 Fun fact: I love board games and mystery content!
 <br>
 <a href="https://komarev.com" color="black" >
-  <img height="22" width="100" font-size="14" font-weight="small" title="Profile Views" src="https://komarev.com/ghpvc/?username=CharlyAnne&color=Fb607f&style=plastic">
+  <img height="22" width="120" font-size="14" font-weight="small" title="Profile Views" src="https://komarev.com/ghpvc/?username=CharlyAnne&color=Fb607f&style=plastic">
 </a>
 <a href="https://wakatime.com/@2a5d8d12-c825-42d3-a49b-f6c12029132c" color="pink">
   <img src="https://wakatime.com/badge/user/2a5d8d12-c825-42d3-a49b-f6c12029132c.svg" alt="Total time coded since Feb 20 2023" font-size="13" font-weight="small" height="20" title="Wakatime Stats"/>
