@@ -1,6 +1,6 @@
 # Hey! <img src="wave.gif" width="35"> My name is Charly..
 - 🌱 I’m currently learning Software Engineering at alx
-- 💬 Looking for remote Software and Design opportunities.
+- 💬 Looking for remote Frontend opportunities.
 - 📫 How to reach me: <!--[<img src="https://img.shields.io/badge/Portfolio-20d6fe.svg?&style=plastic&logoColor=pink"/](https://github.com/CharlyAnne)-->
   [<img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=plastic&logo=twitter&logoColor=pink"/>](https://twitter.com/Imoisiliii)
   [<img src="https://img.shields.io/badge/Linkedin-0A66C2.svg?&style=plastic&logo=linkedin&logoColor=pink"/>](https://www.linkedin.com/in/charlian-imoisili)
