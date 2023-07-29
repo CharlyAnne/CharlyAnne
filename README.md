@@ -47,7 +47,7 @@
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=pink" alt="Twitter Badge"/>
     </a>
 </div>
-Email me: cimoisili@outlook.com  ||  🥹 Pronouns: She/Dollaz/Her 
+Email: cimoisili@outlook.com || Pronouns: She/Dollaz/Her 
 <br> 
 Fun fact: I love board games, mystery contents and conspiracy theories!
 <br>
