@@ -47,7 +47,7 @@
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=pink" alt="Twitter Badge"/>
     </a>
 </div>
-Email me: cimoisili@outlook.com  ||  🥹 Pronouns: She/Dollaz/Her  ||  🦭 Fun fact: I love board games and mystery content!
+Email me: cimoisili@outlook.com  ||  🥹 Pronouns: She/Dollaz/Her  ||  🦭 Fun fact: I love board games, mystery contents and conspiracy theories!
 <br>
 <a href="https://komarev.com" color="black" >
   <img height="22" width="120" font-size="14" font-weight="small" title="Profile Views" src="https://komarev.com/ghpvc/?username=CharlyAnne&color=Fb607f&style=plastic">
