@@ -6,7 +6,7 @@
 - 🌱 **Currently Learning:** Software Engineering at ALX Africa.
 - 💬 **Prospects:** Looking to collaborate on React projects.
 - 📫 **Reach me:** icharlieanne@gmail.com
-- 😒Fun facts: I love playing board games and solving mysteries.
+- 😒Fun facts: I love playing logic-based games and chewing gums.
 <hr />
 <div align="center">
   <h3>Technologies & Tools:</h3>
