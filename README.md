@@ -1,6 +1,6 @@
 # Hey! <img src="wave.gif" width="35"> My name is Charly..
 <!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+code&weight=600&size=40&pause=1000&center=true&vCenter=true&width=1000&lines=I'm+Charly+%F0%9F%91%8B%F0%9F%8F%BD)](https://git.io/typing-svg)-->
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&color=fb607f&center=true&vCenter=true&width=1000&lines=Front-end+Engineer;React;Web+Designer;UI+Design)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&color=fb607f&center=true&vCenter=true&width=1000&lines=Front-end+Engineer;React+Developer;Web+Designer;UI+Design)](https://git.io/typing-svg)
 <p align="center">I'm a passionate frontend engineer dedicated to creating seamless and visually appealing applications.</p>
 
 - 🌱 **Currently Learning:** Software Engineering at ALX Africa.
