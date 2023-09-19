@@ -15,11 +15,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="30" height="30"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" alt="react" width="30" height="30"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="30" title="Jest" height="30"/>&nbsp;
-  <!--<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" title="Redux" alt="redux" width="40" height="40"/>&nbsp;-->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" title="Redux" alt="redux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="Django Logo" width="30" height="30">
-  <!--<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="40" height="40"/>&nbsp;-->
+  <!--<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss.svg" title="tailwind" alt="tailwind" width="40" height="40"/>&nbsp;-->
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="30" height="30"/>&nbsp;
   <!--<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="50"/>&nbsp;-->
   <!--<img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="nginx" alt="nginx" width="40" height="50"/>&nbsp;-->
@@ -28,9 +28,9 @@
 <hr/>
  <h3 align="center">GitHub Stats:</h3>
  <div align="center">
-  <!--<a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=CharlyAnne&theme=dracula&bg_color=0d1117&layout=compact&hide_border=false&hide=stars&text_bold=false&include_all_commits=true&count_private=true" />
-</a>-->
+</a>
 <a href="https://github-readme-streak-stats.herokuapp.com">
   <img height="180px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CharlyAnne&theme=dracula&background=0d1117&ring_color=fb607f" />
 </a>
