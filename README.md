@@ -1,15 +1,16 @@
 # Hey! <img src="wave.gif" width="35"> My name is Charly..
 <!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+code&weight=600&size=40&pause=1000&center=true&vCenter=true&width=1000&lines=I'm+Charly+%F0%9F%91%8B%F0%9F%8F%BD)](https://git.io/typing-svg)-->
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&color=fb607f&center=true&vCenter=true&width=1000&lines=Front-end+Engineer;React+Developer;Web+Designer;UI+Design)](https://git.io/typing-svg)
-<p align="center">I'm a passionate frontend engineer dedicated to creating seamless and visually appealing applications.</p>
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&color=fb607f&center=true&vCenter=true&width=1000&lines=Front-end+Engineer;React+Developer;Budding+Data+Analyst;Web+Designer;UI+Design)](https://git.io/typing-svg)
+<p align="center">I'm a passionate Fin-Tech Enthusiast.</p>
 
-- 🌱 **Currently Learning:** Software Engineering at ALX Africa.
-- 💬 **Prospects:** Looking to collaborate on React projects.
+- 🌱 **Currently Learning:** Data Analytics at Coursera.
+- 💬 **Prospects:** Looking to collaborate on payment-solution projects.
 - 📫 **Reach me:** icharlieanne@gmail.com
-- 😒Fun facts: I love playing logic-based games and chewing gums.
+- 😒Fun facts: I love playing logic-based games and chewing gum.
 <hr />
 <div align="center">
   <h3>Technologies & Tools:</h3>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="30" height="30"/>&nbsp;
@@ -17,7 +18,6 @@
   <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="30" title="Jest" height="30"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" title="Redux" alt="redux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="Django Logo" width="30" height="30">
   <!--<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss.svg" title="tailwind" alt="tailwind" width="40" height="40"/>&nbsp;-->
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="30" height="30"/>&nbsp;
