@@ -3,7 +3,7 @@
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&color=fb607f&center=true&vCenter=true&width=1000&lines=Front-end+Engineer;React+Developer;Budding+Data+Analyst;Web+Designer;UI+Design)](https://git.io/typing-svg)
 <p align="center">I'm a passionate Fin-Tech Enthusiast.</p>
 
-- 🌱 **Currently Learning:** Data Analytics at Coursera.
+- 🌱 **Currently Learning:** Data Analytics with Python at DataCamp.
 - 💬 **Prospects:** Looking to collaborate on payment-solution projects.
 - 📫 **Reach me:** icharlieanne@gmail.com
 - 😒Fun facts: I love playing logic-based games and chewing gum.
