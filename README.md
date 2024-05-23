@@ -6,7 +6,7 @@
 - 🌱 **Currently Learning:** Data Analytics with Python at DataCamp.
 - 💬 **Prospects:** Seeking opportunities in the tech industry to leverage my skills in software engineering and data analytics. Currently completing a Data Analytics with Python course at DataCamp to enhance my analytical capabilities. Eager to apply my knowledge and contribute to innovative projects.
 - 📫 **Reach me:** icharlieanne@gmail.com Open to exciting job opportunities and collaborations!
-- 😒Fun facts: I love playing puzzle games and chewing gum.
+- 😒Fun facts: Indian songs are my favorite and I play puzzle games a lot.
 <hr />
 <div align="center">
   <h3>Technologies & Tools:</h3>
