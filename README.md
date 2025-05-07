@@ -1,10 +1,10 @@
 # <img src="wave.gif" width="35"> Hey! I'm Charly..
 <!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+code&weight=600&size=40&pause=1000&center=true&vCenter=true&width=1000&lines=I'm+Charly+%F0%9F%91%8B%F0%9F%8F%BD)](https://git.io/typing-svg)-->
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&color=fb607f&center=true&vCenter=true&width=1000&lines=Front-end+Engineer;React+Developer;Budding+Data+Analyst;Web+Designer;UI+Design)](https://git.io/typing-svg)
-<p align="center">I'm a passionate Fin-Tech Enthusiast.</p>
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&color=fb607f&center=true&vCenter=true&width=1000&lines=Front-end+Engineer;React+Developer;Data+Analyst;AI+Enthusiast;Trade+Analyst)](https://git.io/typing-svg)
+<p align="center">I'm a passionate ML/FinTech Enthusiast </p>
 
-- 🌱 **Currently Learning:** Data Analytics with Python at DataCamp.
-- 💬 **Prospects:** Seeking opportunities in the tech industry to leverage my skills in software engineering and data analytics. Currently completing a Data Analytics with Python course at DataCamp to enhance my analytical capabilities. Eager to apply my knowledge and contribute to innovative projects.
+- 🌱 **Currently Learning:** Data Science/Machine Learning with Python at DataCamp.
+- 💬 **Prospects:** Seeking opportunities in the tech industry to leverage my skills in software engineering and data analytics. Currently completing a Data Science with Python course at DataCamp to enhance my analytical and ML capabilities. Eager to apply my knowledge and contribute to innovative projects.
 - 📫 **Reach me:** icharlieanne@gmail.com Open to exciting job opportunities and collaborations!
 - 😒Fun facts: Indian songs are my favorite and I play puzzle games a lot.
 <hr />
