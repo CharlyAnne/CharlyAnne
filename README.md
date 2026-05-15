@@ -1,13 +1,12 @@
 # <img src="wave.gif" width="35"> Hey! I'm Charly..
 <!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+code&weight=600&size=40&pause=1000&center=true&vCenter=true&width=1000&lines=I'm+Charly+%F0%9F%91%8B%F0%9F%8F%BD)](https://git.io/typing-svg)-->
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&color=fb607f&center=true&vCenter=true&width=1000&lines=React+Developer;Data+Analyst;ML+&+AI;International+Trade+Analyst)](https://git.io/typing-svg)
-<p align="center">I'm a Data Enthusiast, building bridges between finance and tech.</p>
-
-- 🌱 **Currently Learning:** Data Analysis and Machine Learning with Python at DataCamp.
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&color=fb607f&center=true&vCenter=true&width=1000&lines=Data+Analyst;AI+Enthusiat;Machine+Learning;React+Developer;International+Trade+Analyst)](https://git.io/typing-svg)
+<!-- <p align="center">I'm a Data Enthusiast, building bridges between finance and tech.</p> -->
+- 🌱 **Currently Learning:** Machine Learning Foundations (DataQuest)
 - 💬 **Prospects:** Seeking opportunities in the tech industry to leverage my skills in Finance and Data. Currently completing a career track at DataCamp to enhance my analytical and Machine Learning capabilities. I so want to apply my knowledge and contribute to innovative projects.
 - 📫 **Reach me:** icharlieanne@gmail.com 
 - 🌐: Visit my lil website👉 <a href="https://charlydotde.vercel.app" target="_blank">CharlyDotDev</a>
-- 😒Fun facts: My Indian songs playlist is my favorite and I play puzzle games a lot.
+- 😒Fun facts: I love good movies and Sudoku!
 <hr />
 <div align="center">
   <h3>Skills and Tools I am familiar with:</h3>
